@@ -1,7 +1,7 @@
 # ReceptorTraffic
 
 % File to explain how to use the MATLAB(R) software as described in:
-% Coombs et al., 2019, Nature Communications (Accepted in Principle)
+% Coombs et al., 2019, Nat Commun, 10:5166
 
 % Each parameter is calculated using a different script. For example, the script 
 % calc_speed_costh calculates the speed vs cosine theta.
